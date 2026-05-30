@@ -5,9 +5,8 @@ I build full-stack web apps and ML systems using JavaScript, React.js, Node.js, 
 
 ## Projects
 - 🖥️ [Network Speed & Latency Monitoring Dashboard](https://github.com/jyothigt/Network-Speed-Latency-Monitoring-Dashboard-) — Flask + SQLite real-time monitoring
-- 📋 Task Management App — React.js + Node.js + MySQL full-stack CRUD app *(coming soon)*
-- 🤖 Fake News Detection System — 94.2% accuracy NLP classifier *(coming soon)*
-
+- 📋 Task Management App — React.js + Node.js + MySQL full-stack CRUD app
+- 🤖 Fake News Detection System — 94.2% accuracy NLP classifier 
 ## Tech Stack
 `JavaScript` `React.js` `Node.js` `Express.js` `Python` `Flask` `MySQL` `SQLite` `REST APIs` `Git`
 
